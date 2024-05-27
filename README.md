@@ -1,16 +1,28 @@
-## Hi there 👋
 
-<!--
-**NikkaLuna/NikkaLuna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+![Profile Banner](https://link-to-your-banner-image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## About Me
+Hello! I'm a passionate software developer with experience in building dynamic web applications. I love coding and learning new technologies.
+
+## Pinned Projects
+Here are some of my notable projects:
+- [ECommerceApplication-SpringBoot-JPA-Angular-MySQL](https://github.com/username/ECommerceApplication-SpringBoot-JPA-Angular-MySQL)
+- [DVD-Rental-SQL-Data-Analysis-Export-Tool](https://github.com/username/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+
+## Skills
+- **Languages**: Java, SQL, Python
+- **Frameworks**: Spring Boot, JPA, Angular
+- **Tools**: Docker, AWS, Terraform
+
+## Contact Me
+- [LinkedIn]([https://www.linkedin.com/in/andrea-hayes-msml/])
+- [Email](mailto:youremail@example.com)
+
+![Profile Image](https://link-to-your-profile-image.png)
+
+
+## Fun Fact
+- ⚡ Fun fact: I am also an artist! Check out my art at [Andrea Hayes Art](https://andreachristinehayes.wixsite.com/andreahayesart/)
 -->
