@@ -13,6 +13,7 @@ Here are some of my notable projects:
 - [HotelResManager_Java_OOP_Multithreading_with_Docker](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
 - [DVD-Rental_SQL_Data_Analysis_Export_Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 - [Cloud_Resume_Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
+- [Pet_Health_Companion_Android_App]([https://github.com/NikkaLuna/Cloud_Resume_Challenge](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App))
 
 ## Skills
 - **Languages**: Java, SQL, Python <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
