@@ -4,21 +4,21 @@
 ![Profile Banner](https://link-to-your-banner-image.png)
 
 ## About Me
-Hello! I'm a passionate software developer with experience in building dynamic web applications. I love coding and learning new technologies.
+Hello! I'm a passionate software engineer with experience in building dynamic web applications. I thrive on coding and continuously learning new technologies!
 
 ## Pinned Projects
 Here are some of my notable projects:
-- [ECommerceApplication-SpringBoot-JPA-Angular-MySQL](https://github.com/username/ECommerceApplication-SpringBoot-JPA-Angular-MySQL)
-- [DVD-Rental-SQL-Data-Analysis-Export-Tool](https://github.com/username/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [ECommerceApplication-SpringBoot-JPA-Angular-MySQL](https://github.com/NikkaLuna/ECommerceApplication-SpringBoot-JPA-Angular-MySQL)
+- [DVD-Rental-SQL-Data-Analysis-Export-Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 
 ## Skills
 - **Languages**: Java, SQL, Python
 - **Frameworks**: Spring Boot, JPA, Angular
-- **Tools**: Docker, AWS, Terraform
+- **Tools**: AWS, Docker, Terraform
 
 ## Contact Me
 - [LinkedIn]([https://www.linkedin.com/in/andrea-hayes-msml/])
-- [Email](mailto:youremail@example.com)
+- [Email](andreachristinehayes@outlook.com)
 
 ![Profile Image](https://link-to-your-profile-image.png)
 
