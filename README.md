@@ -9,10 +9,10 @@ Hello! I'm a passionate software engineer with experience in building dynamic we
 
 ## Pinned Projects
 Here are some of my notable projects:
-- [ECommerceApplication-SpringBoot-JPA-Angular-MySQL](https://github.com/NikkaLuna/ECommerceApplication-SpringBoot-JPA-Angular-MySQL)
+- [ECommerceApplication_SpringBoot_JPA-Angular_MySQL](https://github.com/NikkaLuna/ECommerceApplication-SpringBoot-JPA-Angular-MySQL)
 - [HotelResManager_Java_OOP_Multithreading_with_Docker](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
-- [DVD-Rental-SQL-Data-Analysis-Export-Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
-
+- [DVD-Rental_SQL_Data_Analysis_Export_Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [Cloud_Resume_Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
 ## Skills
 - **Languages**: Java, SQL, Python <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
