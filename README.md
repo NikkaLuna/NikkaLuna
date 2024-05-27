@@ -1,7 +1,7 @@
 
 # Welcome to My GitHub Profile!
 
-![Profile Banner](https://link-to-your-banner-image.png)
+![Profile Banner](https://github.com/NikkaLuna/NikkaLuna/blob/main/ILoveToCode.png)
 
 ## About Me
 Hello! I'm a passionate software engineer with experience in building dynamic web applications. I thrive on coding and continuously learning new technologies!
