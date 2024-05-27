@@ -17,10 +17,8 @@ Here are some of my notable projects:
 - **Tools**: AWS, Docker, Terraform
 
 ## Contact Me
-- [LinkedIn]([https://www.linkedin.com/in/andrea-hayes-msml/])
+- [LinkedIn](https://www.linkedin.com/in/andrea-hayes-msml/)
 - [Email](andreachristinehayes@outlook.com)
-
-![Profile Image](https://link-to-your-profile-image.png)
 
 
 ## Fun Fact
