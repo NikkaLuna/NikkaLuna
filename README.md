@@ -22,7 +22,7 @@ AWS:
 - [Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
 SQL:
-- [DVD-Rental SQL Data Analysis_ Export Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [DVD-Rental SQL Data Analysis Export Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 
 
 ## Skills
