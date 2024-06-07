@@ -11,7 +11,7 @@ Hello! I'm a passionate software engineer with experience in building and design
 Here are some of my notable projects:
 
 Java Spring Framework: 
-- [ECommerceApplication_SpringBoot_JPA-Angular_Hibernate](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
+- [SpringBoot_JPA_ECommerce_Vacation_Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
 - [HotelSchedulingApplication_Java_Spring_Multithreading_with_Docker](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
 
 Android: 
