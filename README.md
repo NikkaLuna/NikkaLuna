@@ -12,7 +12,7 @@ Here are some of my notable projects:
 
 Java Spring Framework: 
 - [SpringBoot_JPA_ECommerce_Vacation_Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
-- [HotelSchedulingApplication_Java_Spring_Multithreading_with_Docker](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
+- [Hotel Reservation Application Spring Framework](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
 
 Android: 
 - [Pet_Health_Companion_Android_App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
