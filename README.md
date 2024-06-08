@@ -19,7 +19,7 @@ Android:
 - [Android Vacation Planner App](https://github.com/NikkaLuna/Android_Vacation_Planner_App)
 
 AWS:
-- [Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
+- [AWS Cloud Resume](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
 SQL:
 - [DVD-Rental SQL Data Analysis Export Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
