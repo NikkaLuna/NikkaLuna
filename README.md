@@ -11,8 +11,9 @@ Hello! I'm a passionate software engineer with experience in building and design
 Here are some of my notable projects:
 
 Java Spring Framework: 
-- [SpringBoot JPA ECommerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
-- [Hotel Reservation Application Spring Boot](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
+- [Hotel Reservation Management System](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
+- [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
+
 
 Android: 
 - [Pet Health Companion Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
@@ -22,7 +23,7 @@ AWS:
 - [AWS Cloud Resume](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
 SQL:
-- [DVD-Rental SQL Data Analysis Export Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 
 
 ## Skills
