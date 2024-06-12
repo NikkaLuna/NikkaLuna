@@ -2,8 +2,6 @@
 
 # Welcome to My GitHub Project Portfolio! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="20"/>
 
-![Profile Banner](https://github.com/NikkaLuna/NikkaLuna/blob/main/ILoveToCode.png)
-
 ## About Me
 Hello! I'm a passionate software engineer with experience in building and designing dynamic software applications. I thrive on expanding my coding abilities & continuously learning new technologies! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
 
