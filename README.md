@@ -3,7 +3,7 @@
 # Welcome to My GitHub Project Portfolio! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="20"/>
 
 ## About Me
-Hello! I'm a passionate software engineer with experience in building and designing dynamic software applications. I thrive on expanding my coding abilities & continuously learning new technologies! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
+Hello! I'm a passionate DevOps engineer with experience in automating, optimizing, and managing software applications and infrastructures. I thrive on expanding my skills in CI/CD and infrastructure as code, continuously learning new technologies to enhance system efficiency and reliability! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
 
 ## Pinned Projects
 Here are some of my notable projects:
