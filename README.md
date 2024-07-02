@@ -25,9 +25,9 @@ SQL:
 
 
 ## Skills
-- **Languages**: Java, SQL, Python <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
-- **Frameworks**: Spring Boot, JPA, Angular <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="20"/>
-- **Tools**: AWS, Docker, Terraform <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8" width="20"/>
+- **Languages**: Python, Java, SQL <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
+- **Frameworks**: React, Spring Boot, JPA, Angular <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="20"/>
+- **Tools**: AWS, Docker, Terraform, Ansible, Kubernetes <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8" width="20"/>
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/andrea-hayes-msml/) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8" width="20"/>
