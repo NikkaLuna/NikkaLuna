@@ -13,6 +13,10 @@ DevOps:
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
 
+
+AWS:
+- [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
+
   
 Java Spring Framework: 
 - [Hotel Reservation Management System](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
@@ -22,9 +26,6 @@ Java Spring Framework:
 Android: 
 - [Pet Health Companion Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
 - [Android Vacation Planner App](https://github.com/NikkaLuna/Android_Vacation_Planner_App)
-
-AWS:
-- [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
 SQL:
 - [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
