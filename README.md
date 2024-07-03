@@ -38,7 +38,7 @@ SQL:
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/andrea-hayes-msml/) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png?v8" width="20"/>
-- [Digital Resume](https://andreahayes-dev.com) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="20"/>
+- [Digital Resume](https://andreahayes-cloudresumechallenge.com/) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png?v8" width="20"/>
 
 ## Fun Fact
 - ⚡ Fun fact: I am also an artist! Check out my art at [Andrea Hayes Art](https://andreachristinehayes.wixsite.com/andreahayesart/) <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png?v8" width="20"/>
