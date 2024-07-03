@@ -9,7 +9,6 @@ Hello! I'm a passionate DevOps engineer with experience in automating, optimizin
 Here are some of my notable projects:
 
 DevOps: 
-DevOps: 
 - [Automated DevOps Incident Management Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform) *(In progress)*
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
