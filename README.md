@@ -23,10 +23,6 @@ Java Spring Framework:
 - [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
 
 
-Android: 
-- [Pet Health Companion Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
-- [Android Vacation Planner App](https://github.com/NikkaLuna/Android_Vacation_Planner_App)
-
 SQL:
 - [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 
