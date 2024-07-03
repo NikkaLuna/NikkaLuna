@@ -8,6 +8,12 @@ Hello! I'm a passionate DevOps engineer with experience in automating, optimizin
 ## Pinned Projects
 Here are some of my notable projects:
 
+DevOps: 
+- [Automated DevOps Incident Management Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform) (In progress)
+- [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
+- [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
+
+  
 Java Spring Framework: 
 - [Hotel Reservation Management System](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
 - [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
