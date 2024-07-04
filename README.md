@@ -28,7 +28,7 @@ SQL:
 
 
 ## Skills
-- **Languages**: Python, Java, SQL <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
+- **Languages**: Python, JavaScript, Java, SQL <img src="https://github.githubassets.com/images/icons/emoji/unicode/2615.png?v8" width="20"/>
 - **Frameworks**: React, Spring Boot, JPA, Angular <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png?v8" width="20"/>
 - **Tools**: AWS, Docker, Terraform, Ansible, Kubernetes <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png?v8" width="20"/>
 
