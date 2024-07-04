@@ -21,7 +21,7 @@ AWS:
   
 Java: 
 - [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
-- [Pet Health Companion Mobile App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
+- [Pet Health Companion Mobile Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
 
 
 SQL:
