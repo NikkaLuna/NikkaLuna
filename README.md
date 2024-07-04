@@ -10,6 +10,7 @@ Here are some of my notable projects:
 
 DevOps: 
 - [Automated DevOps Incident Management Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform) *(In progress)*
+- [Hotel Reservation Management System](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker) *(In progress)*
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
 
@@ -18,9 +19,9 @@ AWS:
 - [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
 
   
-Java Spring Framework: 
-- [Hotel Reservation Management System](https://github.com/NikkaLuna/HotelResManager_Java_OOP_Multithreading_with_Docker)
+Java: 
 - [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
+- [Pet Health Companion Mobile App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
 
 
 SQL:
