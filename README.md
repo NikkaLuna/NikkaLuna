@@ -14,6 +14,9 @@ DevOps:
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
 
+SQL:
+- [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [SQL Database_Management_System](https://github.com/NikkaLuna/SQL_Database_Management_System)
 
 AWS:
 - [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
@@ -24,8 +27,6 @@ Java:
 - [Pet Health Companion Mobile Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
 
 
-SQL:
-- [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 
 
 ## Skills
