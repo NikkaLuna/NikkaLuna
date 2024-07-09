@@ -4,7 +4,7 @@
 
 ## About Me
 
-With a passion for envisioning complex technical architectures, I thrive on automating, optimizing, and managing software applications and infrastructures. Leveraging my skills in database management, CI/CD pipelines, automation tools, and cloud services, I continuously learn and adopt new technologies to enhance system efficiency and reliability. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
+With a passion for envisioning complex technical architectures, I thrive on automating, optimizing, and managing software applications and infrastructures. Leveraging my skills in database management, automation tools, and cloud services, I continuously learn and adopt new technologies to enhance system efficiency and reliability. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
 
 ## Pinned Projects
 Here are some of my notable projects:
