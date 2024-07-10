@@ -17,6 +17,7 @@ DevOps:
 SQL:
 - [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
 - [SQL Database_Management_System](https://github.com/NikkaLuna/SQL_Database_Management_System)
+- [Database Admin Toolkit](https://github.com/NikkaLuna/Database_Automation_Scripts)
 
 AWS:
 - [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
