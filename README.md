@@ -11,6 +11,7 @@ Here are some of my notable projects:
 
 DevOps: 
 - [Automated DevOps Hotel Management Platform](https://github.com/NikkaLuna/Automated_DevOps_Hotel_Management_Platform) *(In progress)*
+- [React_Django_DevOps_Ticket_Management_Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform)
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
 
