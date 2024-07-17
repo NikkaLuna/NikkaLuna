@@ -11,14 +11,9 @@ Here are some of my notable projects:
 
 DevOps: 
 - [Automated DevOps Hotel Management Platform](https://github.com/NikkaLuna/Automated_DevOps_Hotel_Management_Platform) *(In progress)*
-- [React_Django_DevOps_Ticket_Management_Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform)
+- [React_Django_DevOps_Ticket_Management_Platform](https://github.com/NikkaLuna/Automated_DevOps_Incident_Management_Platform) *(In progress)*
 - [Scalable Microservices Deployment with Kubernetes](https://github.com/NikkaLuna/Scalable_Microservices_Deployment_with_Kubernetes)
 - [React Memory Game Deployment Ansible Automation](https://github.com/NikkaLuna/React_Memory_Game_Deployment_Ansible_Automation)
-
-SQL:
-- [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
-- [SQL Database_Management_System](https://github.com/NikkaLuna/SQL_Database_Management_System)
-- [Database Admin Toolkit](https://github.com/NikkaLuna/Database_Automation_Scripts)
 
 AWS:
 - [AWS Cloud Resume Challenge](https://github.com/NikkaLuna/Cloud_Resume_Challenge)
@@ -27,6 +22,11 @@ AWS:
 Java: 
 - [E-Commerce Vacation Application](https://github.com/NikkaLuna/ECommerceApplication_SpringBoot_JPA_Angular_Hibernate)
 - [Pet Health Companion Mobile Android App](https://github.com/NikkaLuna/Pet_Health_Companion_Android_App)
+
+SQL:
+- [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
+- [SQL Database_Management_System](https://github.com/NikkaLuna/SQL_Database_Management_System)
+- [Database Admin Toolkit](https://github.com/NikkaLuna/Database_Automation_Scripts)
 
 
 
