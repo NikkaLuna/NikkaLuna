@@ -11,7 +11,7 @@ Here are some of my notable projects:
 
 Data Engineering: 
 - [AI_News_ETL_Pipeline_with_Airflow](https://github.com/NikkaLuna/AI-News-ETL-Pipeline-with-Airflow)
-- [Python_Based_Web_Scraping_Data_Processing_for_GDP-Analysis](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
+- [Python_Powered_GDP_Analysis_with_Web_Scraping_and_Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
 
 SQL:
 - [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
