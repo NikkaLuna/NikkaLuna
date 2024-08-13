@@ -10,8 +10,9 @@ With a passion for envisioning and implementing complex data architectures, I th
 Here are some of my notable projects:
 
 Data Engineering: 
-- [AI_News_ETL_Pipeline_with_Airflow](https://github.com/NikkaLuna/AI-News-ETL-Pipeline-with-Airflow)
-- [Python_Powered_GDP_Analysis_with_Web_Scraping_and_Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
+- [AI News ETL Pipeline with Airflow](https://github.com/NikkaLuna/AI-News-ETL-Pipeline-with-Airflow)
+- [Python GDP Analysis with Web Scraping and Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
+- [Dockerized Hive ETL Project](https://github.com/NikkaLuna/Hive_Docker_ETL_Pipeline/tree/main)
 
 SQL:
 - [SQL Data Analysis Tool](https://github.com/NikkaLuna/DVD-Rental-SQL-Data-Analysis-Export-Tool)
