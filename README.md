@@ -15,7 +15,7 @@ Data Engineering:
 - [Python GDP Analysis with Web Scraping and Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
 - [Dockerized Hive ETL Project](https://github.com/NikkaLuna/Hive_Docker_ETL_Pipeline/tree/main)
 - [ETL Data Transformation Pipeline](https://github.com/NikkaLuna/ETL_Data_Transformation_Pipeline)
-- [Real-Time Kafka Data Stream Visualization](https://github.com/NikkaLuna/Real_Time_Kafka_Data_Stream_Visualization/blob/main/README.md)
+- [Real-Time Kafka Data Stream Visualization](https://github.com/NikkaLuna/Real_Time_Kafka_Data_Stream_Visualization/tree/main)
 - [Database Admin Toolkit](https://github.com/NikkaLuna/Database_Automation_Scripts)
 
 SQL:
