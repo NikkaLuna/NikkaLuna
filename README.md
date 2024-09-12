@@ -1,6 +1,6 @@
 
 
-# Welcome to My GitHub Project Portfolio! <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png?v8" width="20"/>
+# Welcome to My GitHub Project Portfolio>
 
 ## About Me
 
