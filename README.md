@@ -4,7 +4,7 @@
 
 ## About Me
 
-With a passion for envisioning and implementing complex data architectures, I thrive on automating, optimizing, and managing data pipelines and infrastructures. Leveraging my skills in database management, automation tools, and cloud services, I continuously learn and adopt new technologies to enhance the efficiency and reliability of data systems. <img src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png?v8" width="20"/>
+With a passion for envisioning and implementing complex data architectures, I thrive on automating, optimizing, and managing data pipelines and infrastructures. Leveraging my skills in database management, automation tools, and cloud services, I continuously learn and adopt new technologies to enhance the efficiency and reliability of data systems. 
 
 ## Pinned Projects
 Here are some of my notable projects:
