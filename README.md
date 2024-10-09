@@ -15,6 +15,7 @@ Data Engineering:
 - [Dockerized Hive ETL Project](https://github.com/NikkaLuna/Hive_Docker_ETL_Pipeline/tree/main)
 - [ETL Data Transformation Pipeline](https://github.com/NikkaLuna/ETL_Data_Transformation_Pipeline)
 - [Real-Time Kafka Data Stream Visualization](https://github.com/NikkaLuna/Real_Time_Kafka_Data_Stream_Visualization/tree/main)
+- [Dockerized Hadoop HDFS Cluster Deployment](https://github.com/NikkaLuna/Dockerized_Hadoop_HDFS_Cluster_Deployment)
 - [PySpark Market Basket Analysis for Grocery Data Mining](https://github.com/NikkaLuna/PySpark_Market_Basket_Analysis_for_Grocery_Data_Mining/tree/main)
 - [Database Admin Toolkit](https://github.com/NikkaLuna/Database_Automation_Scripts)
 
