@@ -10,6 +10,8 @@ With a passion for envisioning and implementing complex data architectures, I th
 Here are some of my notable projects:
 
 Data Engineering: 
+
+- [Kafka Delta Streaming Pipeline](https://github.com/NikkaLuna/kafka-delta-streaming-pipeline)
 - [AI News ETL Pipeline with Airflow](https://github.com/NikkaLuna/AI-News-ETL-Pipeline-with-Airflow)
 - [Python GDP Analysis with Web Scraping and Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
 - [Dockerized Hive ETL Project](https://github.com/NikkaLuna/Hive_Docker_ETL_Pipeline/tree/main)
