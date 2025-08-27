@@ -3,8 +3,11 @@
 # Welcome to My GitHub Project Portfolio
 
 ## About Me
+I’m a Data Engineer with experience delivering production-grade pipelines in Azure Synapse, ADF, and SQL Server, including 58+ CDC pipelines, schema evolution handling, and QA frameworks adopted across 100+ client data flows. I focus on building AI/ML-ready architectures that combine real-time streaming, scalable transformations, and cloud-native design.
 
-With a passion for envisioning and implementing complex data architectures, I thrive on automating, optimizing, and managing data pipelines and infrastructures. Leveraging my skills in database management, automation tools, and cloud services, I continuously learn new technologies to enhance the efficiency and reliability of data systems. 
+I bring both technical depth (Spark, Databricks, AWS) and business perspective (B.S. in Software Engineering, Masters in Business Management), with a track record of documenting best practices, mentoring peers, and improving data reliability at scale.
+
+My portfolio includes cloud- and ML-focused projects such as AWS Glue ETL pipelines, Kafka Delta streaming, and Databricks/Spark pipelines, and I’m expanding into MLOps and real-time AI scoring pipelines to align with the next wave of data systems.
 
 ## Pinned Projects
 Here are some of my notable projects:
