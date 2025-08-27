@@ -7,7 +7,7 @@ I’m a Data Engineer with experience delivering production-grade pipelines in A
 
 I bring both technical depth (Spark, Databricks, AWS) and business perspective (B.S. in Software Engineering, Masters in Business Management), with a track record of documenting best practices, mentoring peers, and improving data reliability at scale.
 
-My portfolio includes cloud- and ML-focused projects such as AWS Glue ETL pipelines, Kafka Delta streaming, and Databricks/Spark pipelines, and I’m expanding into MLOps and real-time AI scoring pipelines to align with the next wave of data systems.
+My portfolio includes cloud- and ML-focused projects such as AWS Glue ETL pipelines, Kafka Delta streaming, and Databricks/Spark pipelines, and I’m expanding into MLOps and real-time AI pipelines to align with the next wave of data systems.
 
 ## Pinned Projects
 Here are some of my notable projects:
