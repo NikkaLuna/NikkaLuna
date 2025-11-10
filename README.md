@@ -14,8 +14,8 @@ Here are some of my notable projects:
 
 Data Engineering: 
 
-- [AWS Glue ETL Pipeline | S3 → Parquet → Athena](https://github.com/NikkaLuna/ai-datalakehouse-bronze-etl/tree/main)
 - [Kafka Delta Streaming Pipeline](https://github.com/NikkaLuna/kafka-delta-streaming-pipeline)
+- [AWS Glue ETL Pipeline | S3 → Parquet → Athena](https://github.com/NikkaLuna/ai-datalakehouse-bronze-etl/tree/main)
 - [AI News ETL Pipeline with Airflow](https://github.com/NikkaLuna/AI-News-ETL-Pipeline-with-Airflow)
 - [Python GDP Analysis with Web Scraping and Pandas](https://github.com/NikkaLuna/Python-based-Web-Scraping-Data-Processing-for-GDP-Analysis/tree/main)
 - [Dockerized Hive ETL Project](https://github.com/NikkaLuna/Hive_Docker_ETL_Pipeline/tree/main)
