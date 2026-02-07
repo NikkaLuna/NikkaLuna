@@ -3,11 +3,13 @@
 # Welcome to My GitHub Project Portfolio
 
 ## About Me
-I’m a Data Engineer with experience developing and delivering production-grade pipelines in Azure Synapse, ADF, and SQL Server, including 58+ CDC pipelines, schema evolution handling, and QA frameworks adopted across 100+ client data flows. I focus on building AI/ML-ready architectures that combine real-time streaming, scalable transformations, and cloud-native design.
+I’m a Data Engineer with 1.5+ years of production experience designing and delivering scalable pipelines across Azure Synapse, ADF, SQL Server, Spark, and AWS. My work includes 100+ CDC pipelines, schema evolution handling, and QA frameworks adopted across enterprise data flows, with a strong focus on reliability, auditability, and production readiness.
 
-I bring both technical depth (Spark, Databricks, AWS) and business perspective (B.S. in Software Engineering, Masters in Business Management), with a track record of documenting best practices, mentoring peers, and improving data reliability at scale.
+I specialize in building AI/ML-ready data architectures, spanning batch and streaming systems, dimensional modeling, and data quality automation. I’ve independently owned core data models sourced from fragmented legacy systems, translating ambiguous requirements into validated, documented pipelines used for analytics and downstream automation.
 
-My portfolio includes cloud- and ML-focused projects such as AWS Glue ETL pipelines, Kafka Delta streaming, and Databricks/Spark pipelines, and I’m expanding into MLOps and real-time AI pipelines to align with the next wave of data systems.
+I bring both technical depth (Spark, Databricks, AWS, CDC architectures) and business perspective (B.S. in Software Engineering, M.S. in Business Management), with a track record of documentation-first delivery, mentoring peers, and improving data reliability at scale.
+
+My portfolio includes cloud-native and ML-integrated projects such as AWS Glue medallion ETL pipelines, Kafka → Delta streaming architectures, and Databricks/Spark workflows with MLflow-based inference. I’m continuing to expand into MLOps and ML platform foundations, with a long-term focus on real-time and AI-driven data systems.
 
 ## Pinned Projects
 Here are some of my notable projects:
