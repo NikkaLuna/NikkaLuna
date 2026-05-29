@@ -2,9 +2,9 @@
 
 ## About Me
 
-I’m a Data Engineer with 1.5+ years of production experience building scalable pipelines across Azure, AWS, Spark, Databricks, Synapse, ADF, and SQL Server. My background includes 100+ CDC pipelines, schema evolution handling, dimensional modeling, and QA/reconciliation frameworks, with a strong focus on reliability, auditability, and production readiness.
+I'm a Data Engineer with 1.5+ years of production experience building scalable cloud data pipelines across Azure, AWS, Spark, Databricks, Synapse, ADF, and SQL Server. My background includes 100+ CDC pipelines, schema evolution handling, dimensional modeling, and QA/reconciliation frameworks, with a strong focus on reliability, auditability, and production readiness.
 
-This portfolio features batch and streaming data engineering projects built around real-world patterns such as incremental processing, CDC, medallion architecture, observability, and ML-ready data pipelines. Featured work includes AWS Glue ETL pipelines, Kafka → Delta streaming systems, and Databricks/MLflow workflows.
+This portfolio features batch and streaming data engineering projects built around real-world patterns such as incremental processing, CDC, medallion architecture, observability, and ML-ready data pipelines. Featured work includes AWS Glue ETL pipelines, Kafka → Delta streaming systems, and Databricks + MLflow workflows.
 
 I bring both technical depth and business context through a B.S. in Software Engineering and an M.S. in Business Management, along with a documentation-first approach shaped by client-facing delivery, mentoring, and hands-on production engineering.
 
